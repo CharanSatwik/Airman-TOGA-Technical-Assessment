@@ -1,4 +1,4 @@
-# TOGA — Aviation Cadet Training Management Platform
+# TOGA - Aviation Cadet Training Management Platform
 ### Flutter Developer Assessment Submission
 **Company:** AIRMAN Aeronautics Pvt. Ltd.  
 **Product Ecosystem:** TOGA (Aviation Cadet App) · Skynet (SaaS) · XB70 (Flight Computer) · Sierra AI (MRO)  
