@@ -6,7 +6,7 @@
 **Duration:** 24-Hour Advanced Practical Assessment  
 
 > [!IMPORTANT]
-> **Pre-compiled Android Release APK**: Evaluators can instantly download and run the compiled Android package on a test device or emulator. **[Download here](./build/app/outputs/flutter-apk/airman%20toga%20v2.apk)**.
+> **Pre-compiled Android Release APK**: Evaluators can instantly download and run the compiled Android package on a test device or emulator. **[Download here](./airman%20toga%20v2.apk)**
 
 ---
 
@@ -17,12 +17,12 @@
 Developed specifically for low-to-no network accessibility environments like flight lines, cockpits, or high-altitude flight decks, TOGA ensures that cadet logs, flight notes, grounds school progress meters, and critical operations notifications are always immediately accessible. 
 
 ### Key Core Features:
-* ✈️ **Cadet Profile Dashboard**: Displays training progress, flight hours, assigned Flight Training Organization (FTO), instructor contact cards, and active course stages.
-* 📚 **Ground School Study Hub**: Features academic subjects (Meteorology, Navigation, etc.) with real-time percentage progress bars, completed lesson counters, and mock quiz grades.
-* 📝 **Offline Notes Sync Manager**: A workspace where pilots draft pre-flight checklists, weather logs, or notes. Features instant local persistence, offline sync status badging ("Synced" or "Syncing..."), and automated background queuing.
-* 🔔 **Flight Operations Notification Center**: Displays cockpit briefings, schedule adjustments, and weather advisories. Enables marking individual notices as read or unread, updating unread badges in real time.
-* 🌓 **Dynamic Double-Theme Engine**: Implements a hardware-accelerated Light/Dark theme that toggles instantly via the Profile screen with a smooth animated transition.
-* 🛡️ **Offline Font Engine**: Bundles the `PlusJakartaSans` and `IBMPlexMono` font families directly in the application assets, ensuring instant typography rendering without net dependencies.
+*  **Cadet Profile Dashboard**: Displays training progress, flight hours, assigned Flight Training Organization (FTO), instructor contact cards, and active course stages.
+*  **Ground School Study Hub**: Features academic subjects (Meteorology, Navigation, etc.) with real-time percentage progress bars, completed lesson counters, and mock quiz grades.
+*  **Offline Notes Sync Manager**: A workspace where pilots draft pre-flight checklists, weather logs, or notes. Features instant local persistence, offline sync status badging ("Synced" or "Syncing..."), and automated background queuing.
+*  **Flight Operations Notification Center**: Displays cockpit briefings, schedule adjustments, and weather advisories. Enables marking individual notices as read or unread, updating unread badges in real time.
+*  **Dynamic Double-Theme Engine**: Implements a hardware-accelerated Light/Dark theme that toggles instantly via the Profile screen with a smooth animated transition.
+*  **Offline Font Engine**: Bundles the `PlusJakartaSans` and `IBMPlexMono` font families directly in the application assets, ensuring instant typography rendering without net dependencies.
 
 ---
 
@@ -239,7 +239,7 @@ All AI assistance was specifically isolated to the **API Readiness and Offline-F
 * **Clean Service Layer Abstractions**: Structured repository helper files to cleanly simulate asynchronous delay configurations matching production environments.
 
 ### How it Accelerated the Process:
-* 🚀 **10x Faster Schema Delivery**: Spared the developer from writing repetitive serialization parsing models, completing generation setups in seconds.
-* 🔍 **Instant Bug Resolution**: Helped identify Riverpod provider `LateError` compiler behaviors and immediately refactored properties to inline initializers.
-* 🧪 **Automated Test Coverage**: Assisted in designing standard ProviderContainer test harnesses, completing full code isolation tests instantly.
-# Airman-TOGA-Technical-Assessment
+* **10x Faster Schema Delivery**: Spared the developer from writing repetitive serialization parsing models, completing generation setups in seconds.
+*  **Instant Bug Resolution**: Helped identify Riverpod provider `LateError` compiler behaviors and immediately refactored properties to inline initializers.
+*  **Automated Test Coverage**: Assisted in designing standard ProviderContainer test harnesses, completing full code isolation tests instantly.
+
