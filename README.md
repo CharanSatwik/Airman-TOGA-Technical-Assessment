@@ -31,23 +31,12 @@ Developed specifically for low-to-no network accessibility environments like fli
 Below is a visual preview of the **TOGA** mobile training module in action, demonstrating the clean layout, custom components, high-contrast dark/light mode designs, and intuitive ground school trackers:
 
 <p align="center">
-  <kbd>
-    <img src="./Screenshots/Screenshot_20260528-144945_Airman%20TOGA.png" width="18%" alt="Cadet Dashboard" />
-  </kbd>
-  <kbd>
-    <img src="./Screenshots/Screenshot_20260528-144950_Airman%20TOGA.png" width="18%" alt="Ground School Study Hub" />
-  </kbd>
-  <kbd>
-    <img src="./Screenshots/Screenshot_20260528-144953_Airman%20TOGA.png" width="18%" alt="Offline Study Notes" />
-  </kbd>
-  <kbd>
-    <img src="./Screenshots/Screenshot_20260528-144956_Airman%20TOGA.png" width="18%" alt="Operations Notifications" />
-  </kbd>
-  <kbd>
-    <img src="./Screenshots/Screenshot_20260528-144958_Airman%20TOGA.png" width="18%" alt="Cadet Profile & Settings" />
-  </kbd>
+  <img src="./Screenshots/Screenshot_20260528-144945_Airman%20TOGA.png" width="19%" alt="Cadet Dashboard" />
+  <img src="./Screenshots/Screenshot_20260528-144950_Airman%20TOGA.png" width="19%" alt="Ground School Study Hub" />
+  <img src="./Screenshots/Screenshot_20260528-144953_Airman%20TOGA.png" width="19%" alt="Offline Study Notes" />
+  <img src="./Screenshots/Screenshot_20260528-144956_Airman%20TOGA.png" width="19%" alt="Operations Notifications" />
+  <img src="./Screenshots/Screenshot_20260528-144958_Airman%20TOGA.png" width="19%" alt="Cadet Profile & Settings" />
 </p>
----
 
 ## 3. Tech Stack Used
 
