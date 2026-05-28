@@ -154,7 +154,6 @@ flutter pub get
   ```bash
   flutter build apk --release
   ```
-  *(A precompiled binary is available for instant installation: **[Download here](./build/app/outputs/flutter-apk/airman%20toga%20v2.apk)**)*
 * **Build iOS Release Archive:**
   ```bash
   flutter build ios --release
