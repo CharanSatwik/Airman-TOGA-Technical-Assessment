@@ -6,7 +6,7 @@
 **Duration:** 24-Hour Advanced Practical Assessment  
 
 > [!IMPORTANT]
-> **Pre-compiled Android Release APK**: Evaluators can instantly download and run the compiled Android package on a test device or emulator. **[Download APK v2.0](https://github.com/CharanSatwik/Airman-TOGA-Technical-Assessment/releases/latest/download/airman%20toga%20v2.apk)**
+> **Pre-compiled Android Release APK**: Evaluators can instantly download and run the compiled Android package on a test device or emulator. **[Download APK](https://github.com/CharanSatwik/Airman-TOGA-Technical-Assessment/releases/latest/download/airman%20toga%20v2.apk)**
 
 ---
 
